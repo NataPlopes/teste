@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hermes Lerdo\\source\\repos\\media aluno\\media aluno\\media aluno.csproj": {}
+    "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\media aluno\\media aluno\\media aluno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hermes Lerdo\\source\\repos\\media aluno\\media aluno\\media aluno.csproj": {
+    "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\media aluno\\media aluno\\media aluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hermes Lerdo\\source\\repos\\media aluno\\media aluno\\media aluno.csproj",
+        "projectUniqueName": "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\media aluno\\media aluno\\media aluno.csproj",
         "projectName": "media aluno",
-        "projectPath": "C:\\Users\\Hermes Lerdo\\source\\repos\\media aluno\\media aluno\\media aluno.csproj",
+        "projectPath": "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\media aluno\\media aluno\\media aluno.csproj",
         "packagesPath": "C:\\Users\\Hermes Lerdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hermes Lerdo\\source\\repos\\media aluno\\media aluno\\obj\\",
+        "outputPath": "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\media aluno\\media aluno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hermes Lerdo\\AppData\\Roaming\\NuGet\\NuGet.Config",

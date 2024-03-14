@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hermes Lerdo\\source\\repos\\desconto\\desconto\\desconto.csproj",
+      "projectUniqueName": "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\desconto\\desconto\\desconto.csproj",
       "projectName": "desconto",
-      "projectPath": "C:\\Users\\Hermes Lerdo\\source\\repos\\desconto\\desconto\\desconto.csproj",
+      "projectPath": "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\desconto\\desconto\\desconto.csproj",
       "packagesPath": "C:\\Users\\Hermes Lerdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hermes Lerdo\\source\\repos\\desconto\\desconto\\obj\\",
+      "outputPath": "C:\\Users\\Hermes Lerdo\\Desktop\\atividades devstars\\desconto\\desconto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hermes Lerdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
