@@ -1,0 +1,13 @@
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\bin\Debug\netcoreapp3.1\desconto.exe
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\bin\Debug\netcoreapp3.1\desconto.deps.json
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\bin\Debug\netcoreapp3.1\desconto.runtimeconfig.json
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\bin\Debug\netcoreapp3.1\desconto.runtimeconfig.dev.json
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\bin\Debug\netcoreapp3.1\desconto.dll
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\bin\Debug\netcoreapp3.1\desconto.pdb
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.csproj.AssemblyReference.cache
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.AssemblyInfoInputs.cache
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.AssemblyInfo.cs
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.csproj.CoreCompileInputs.cache
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.dll
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.pdb
+C:\Users\Hermes Lerdo\source\repos\desconto\desconto\obj\Debug\netcoreapp3.1\desconto.genruntimeconfig.cache

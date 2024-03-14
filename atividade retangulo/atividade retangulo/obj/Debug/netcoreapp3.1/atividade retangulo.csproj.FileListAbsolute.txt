@@ -1,0 +1,13 @@
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.csproj.AssemblyReference.cache
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.AssemblyInfoInputs.cache
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.AssemblyInfo.cs
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\bin\Debug\netcoreapp3.1\atividade retangulo.exe
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\bin\Debug\netcoreapp3.1\atividade retangulo.deps.json
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\bin\Debug\netcoreapp3.1\atividade retangulo.runtimeconfig.json
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\bin\Debug\netcoreapp3.1\atividade retangulo.runtimeconfig.dev.json
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\bin\Debug\netcoreapp3.1\atividade retangulo.dll
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\bin\Debug\netcoreapp3.1\atividade retangulo.pdb
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.dll
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.pdb
+C:\Users\Hermes Lerdo\source\repos\atividade retangulo\atividade retangulo\obj\Debug\netcoreapp3.1\atividade retangulo.genruntimeconfig.cache

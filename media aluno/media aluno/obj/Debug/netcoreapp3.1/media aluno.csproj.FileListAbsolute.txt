@@ -1,0 +1,13 @@
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\bin\Debug\netcoreapp3.1\media aluno.exe
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\bin\Debug\netcoreapp3.1\media aluno.deps.json
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\bin\Debug\netcoreapp3.1\media aluno.runtimeconfig.json
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\bin\Debug\netcoreapp3.1\media aluno.runtimeconfig.dev.json
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\bin\Debug\netcoreapp3.1\media aluno.dll
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\bin\Debug\netcoreapp3.1\media aluno.pdb
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.csproj.AssemblyReference.cache
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.AssemblyInfoInputs.cache
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.AssemblyInfo.cs
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.csproj.CoreCompileInputs.cache
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.dll
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.pdb
+C:\Users\Hermes Lerdo\source\repos\media aluno\media aluno\obj\Debug\netcoreapp3.1\media aluno.genruntimeconfig.cache
